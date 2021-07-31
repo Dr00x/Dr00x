@@ -32,5 +32,4 @@ while true:
 
 <hr>
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/Dr00x/.../blob/main/mrq.svg" />
-
-
+<hr>
