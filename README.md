@@ -30,4 +30,4 @@ while true:
     dev.feelProfessional()
   
 ```
-<marquee direction="up">Este texto vai rolar de baixo para cima.</marquee>
+<img src="https://i.imgur.com/b5vNjdv.gif">
