@@ -31,3 +31,7 @@ while true:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/Dr00x/.../blob/main/mrq.svg" />
+
+<br><hr>
+<br><hr>
+<br><hr>
