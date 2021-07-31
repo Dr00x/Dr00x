@@ -1,3 +1,4 @@
+<hr>
 <img src="https://i.imgur.com/pepvHXR.jpg">
 <hr>
 
