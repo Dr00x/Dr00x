@@ -30,3 +30,4 @@ while true:
     dev.feelProfessional()
   
 ```
+<marquee>Thx for visiting </marquee>
