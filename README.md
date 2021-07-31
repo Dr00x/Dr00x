@@ -4,13 +4,27 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 ```python
-Skills = {
-  "Python" : True,
-  "C" : "True",
-  "Lua" : True,
-  "Html5" : True,
-  "Css3" : True,
-  "Js" : True,
-  "PHP" : True
-}
+while true:
+  Active = True
+  
+  Skills = {
+    "Python" : True,
+    "C" : "True",
+    "Lua" : True,
+    "Html5" : True,
+    "Css3" : True,
+    "Js" : True,
+    "PHP" : True
+  }
+  
+  while Active:
+    Idle.open = VsCode
+    Idle.Coding = True
+  
+  while dev.isCoding() and dev.isStuck():  
+    dev.openBrowser()
+    dev.openStackOverFlow()
+    dev.pasteCodeInIde()
+    dev.feelProfessional()
+  
 ```
