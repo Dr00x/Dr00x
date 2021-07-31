@@ -18,7 +18,7 @@ while true:
   }
   
   while Active:
-    Idle.open = VsCode
+    Idle.Open = VsCode
     Idle.Coding = True
   
   while dev.isCoding() and dev.isStuck():  
