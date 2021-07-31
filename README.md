@@ -30,4 +30,4 @@ while true:
     dev.feelProfessional()
   
 ```
-<marquee>Thx for visiting </marquee>
+<marquee direction="up">Este texto vai rolar de baixo para cima.</marquee>
