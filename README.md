@@ -30,4 +30,4 @@ while true:
     dev.feelProfessional()
   
 ```
-<img src="https://i.imgur.com/b5vNjdv.gif">
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
