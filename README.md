@@ -30,8 +30,6 @@ while true:
   <a href="https://github.com/Dr00x">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Dr00x&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr00x&&layout=compact&hide=shell&theme=jolly"/>
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
 
 <a href="https://mail.google.com/mail/u/example@gmail.com/#inbox/153d2095719946b"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
