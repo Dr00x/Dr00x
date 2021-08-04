@@ -35,6 +35,6 @@ while true:
 
 <!--<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/Dr00x/.../blob/main/mrq.svg" />-->
 
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dr00x/..snk/blob/main/snk.svg)
 
 <hr>
