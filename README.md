@@ -1,5 +1,4 @@
 <hr>
-<img src="https://i.imgur.com/pepvHXR.jpg">
 
 ```python
 while true:
